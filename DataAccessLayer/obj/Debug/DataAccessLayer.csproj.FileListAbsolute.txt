@@ -1,0 +1,7 @@
+D:\GIT\BadaBasket\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\GIT\BadaBasket\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\GIT\BadaBasket\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\GIT\BadaBasket\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\GIT\BadaBasket\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\GIT\BadaBasket\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\GIT\BadaBasket\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

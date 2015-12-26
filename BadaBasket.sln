@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadaBasket", "BadaBasket\BadaBasket.csproj", "{4CEA6440-45C9-4963-8C96-4BE951C24815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{A221C448-FF1C-4791-8004-7D89396D73AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CEA6440-45C9-4963-8C96-4BE951C24815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEA6440-45C9-4963-8C96-4BE951C24815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEA6440-45C9-4963-8C96-4BE951C24815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEA6440-45C9-4963-8C96-4BE951C24815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A221C448-FF1C-4791-8004-7D89396D73AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A221C448-FF1C-4791-8004-7D89396D73AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A221C448-FF1C-4791-8004-7D89396D73AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A221C448-FF1C-4791-8004-7D89396D73AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
